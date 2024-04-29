@@ -1,0 +1,9 @@
+.InfoBox{
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.card-container{
+    display: flex;
+    justify-content: center;
+}
